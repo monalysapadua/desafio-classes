@@ -1,0 +1,1 @@
+Classe Heroi que define heróis com atributos de nome, idade e tipo. Cada tipo de herói (mago, guerreiro, monge, ninja) possui um método atacar() que imprime uma mensagem indicando o tipo de ataque que o herói utiliza. Exemplo de uso inclui criação de heróis e execução de seus ataques.
